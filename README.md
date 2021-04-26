@@ -1,7 +1,7 @@
 # Movie_ETL
 Using the ETL process to clean and merge data.
 ## Goal
-Extract the movie data from [Wikipedia](https://github.com/RuthLD/Movie_ETL/blob/main/Resources/movies_metadata.csv) and [Kaggle](https://github.com/RuthLD/Movie_ETL/blob/main/Resources/ratings.csv) from their respective files, transform the datasets by cleaning them and merging them together, then load the cleaned dataset into a SQL database.
+📽️ Extract the movie data from [Wikipedia](https://github.com/RuthLD/Movie_ETL/blob/main/Resources/movies_metadata.csv) and [Kaggle](https://github.com/RuthLD/Movie_ETL/blob/main/Resources/ratings.csv) from their respective files, transform the datasets by cleaning them and merging them together, then load the cleaned dataset into a SQL database.
 
 ## ETL Process
 Two examples of how the movie information from Wikipedia was cleaned is the identifican of alternate titles for the films and the standardization of the column names.
